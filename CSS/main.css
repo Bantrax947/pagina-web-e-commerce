@@ -1,0 +1,35 @@
+/*// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 900
+
+.rubik-<uniquifier> {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}*/
+
+:root{
+    --crl-main: #4b33a8;
+    --crl-white:#ececec;
+    --crl-gray:#e2e2e2;
+    --crl-red:#961818;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Rubik", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6, p, a, ul ,li, input, textarea{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
