@@ -9,6 +9,7 @@
 }*/
 
 :root{
+<<<<<<< HEAD
     --crl-main: #ab4623;
     --crl-mainDark: #5b1b05;
     --crl-aside:#f4d4b4;
@@ -17,6 +18,12 @@
     --crl-marosc: #3e110a;
     --crl-white: #f9e6cc;
     --crl-red:#d10f0f;
+=======
+    --crl-main: #4b33a8;
+    --crl-white:#ececec;
+    --crl-gray:#e2e2e2;
+    --crl-red:#961818;
+>>>>>>> ba7b556e11216243c19a4256a5cc2b8f4703b0da
 }
 
 * {
@@ -37,6 +44,7 @@ ul{
 a{
     text-decoration: none;
 }
+<<<<<<< HEAD
 
 .wrapper{
     display: grid;
@@ -292,3 +300,5 @@ padding-right: 1.5rem;
 .disabled{
     display: none;
 }
+=======
+>>>>>>> ba7b556e11216243c19a4256a5cc2b8f4703b0da
