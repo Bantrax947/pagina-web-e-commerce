@@ -81,13 +81,13 @@ aside{
     font-weight: 600;
     padding: 1rem;
     font-size: .95;
+    width: 100%;
     
 }
 
 .boton-menu.active{
     background-color: var(--crl-aside);
     color: var(--crl-main);
-    width: 100%;
     border-top-left-radius: 1rem;
     border-bottom-left-radius:1rem ;
     position: relative;
